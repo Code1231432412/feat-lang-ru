@@ -1,5 +1,5 @@
--- Language: en
--- English command keywords.
+-- Language: ru
+-- Keywords for the Russian language.
 return return {
   { id = "revive", ru = {"возроди", "воскреси", "вернись к жизни"} },
   { id = "farewell_gift", ru = {"забери с собой", "заберите их с собой", "это твоё", "оставь себе"} },
